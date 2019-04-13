@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfHouse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <House>
+    <Length_of_House>1</Length_of_House>
+    <Number_of_Rooms>11</Number_of_Rooms>
+    <Year>1</Year>
+    <Material>Дерево</Material>
+    <Flat>2</Flat>
+    <rooms>Кухня</rooms>
+  </House>
+  <House>
+    <Length_of_House>2</Length_of_House>
+    <Number_of_Rooms>2</Number_of_Rooms>
+    <Year>2</Year>
+    <Material>Блок</Material>
+    <Flat>3</Flat>
+    <rooms>Кухня</rooms>
+  </House>
+</ArrayOfHouse>
